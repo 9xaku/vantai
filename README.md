@@ -39,6 +39,37 @@
 
 Everything is tuned live from an **in-game menu**, and your settings are saved automatically between sessions.
 
+
+## ✦ Usage
+
+**Aim:**
+<br> Trigger - disable/enable  <br>
+Tolarance - 20/25/30 range stable <br>
+Delay - 0 :)
+_______________________________________________________________________
+
+**Settings:**
+hoykeys settings- <br>
+Trigger mode - hold/toggle <br> 
+hotkeys- menu open/close <br>
+
+_______________________________________________________________________
+
+**Discord:**
+discord rpc Features - playing vanta.ai
+
+_______________________________________________________________________
+
+**System:**
+live performance-cpu/gpu/ram <br>
+vgk controller <br> 
+
+_______________________________________________________________________
+
+**Misc:** <br>
+Watermark - soon too <br> 
+starting windows... <br>
+
 ---
 
 ## ✦ Features
